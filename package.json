@@ -1,0 +1,15 @@
+{
+  "name": "sql-orm-node",
+  "version": "1.0.0",
+  "description": "A Node SQlite project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Godsgift Akari",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^5.18.2",
+    "sqlite3": "^4.1.0"
+  }
+}
